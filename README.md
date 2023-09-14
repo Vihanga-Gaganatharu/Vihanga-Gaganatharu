@@ -26,7 +26,7 @@
 </p>
 <br>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400" align="right"/>
-- :credit_card: My full name is <b>Gayanuka Riviru Bulegoda</b> <br>
+- :credit_card: My full name is <b>Vihanga Gagaanatharu Jagodage</b> <br>
 - :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
 - :books: My major is <b>Software Engineering</b> <br>
 - :earth_asia: I live in <b>Galle, Sri Lanka</b> <br>
