@@ -59,8 +59,9 @@
 
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
-## For More Information, Please Check Out or Contact Me Via  Linkdin Account
-
+## For More Information, Please Check Out or Contact Me Via  Instergram Account
+https://instagram.com/vihangagaganatharu?igshid=OGY3MTU3OGY1Mw==
+  
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Vihanga Gagagnatharu
