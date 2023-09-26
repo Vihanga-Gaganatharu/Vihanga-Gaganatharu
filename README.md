@@ -2,7 +2,7 @@
 
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Vihanga+Gagagnatharu+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=+Hi,+I'm+Vihanga+Gagagnatharu+;Welcome+to+My+Profile!"
 </div>
 <hr>
 <h3 align="center">Software Engineer</h3>
@@ -28,10 +28,10 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400" align="right"/>
 - :credit_card: My full name is <b>Vihanga Gagagnatharu </b> <br>
 - :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
-- :books: My major is <b>Software Engineering</b> <br>
+- :books: My major is <b>Game Developer</b> <br>
 - :earth_asia: I live in <b>Galle, Sri Lanka</b> <br>
 - :sweat_smile: I'm a newbie in coding, know <b>Java</b> language, <b>MySQL</b>. <br>
-- :monocle_face: I'm interested in <b>Coding,,Sleeping</b> and <b>watching tech-based .......</b> <br>
+- :monocle_face: I'm interested in <b>Coding,,Sleeping,,Playing  Video Games</b> and <b>watching tech-based .......</b> <br>
 - :sunglasses: My quote is <b>"The Best is Yet to Be -Never Give Up"</b> <br>
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep 
 <br>
