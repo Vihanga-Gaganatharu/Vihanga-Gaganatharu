@@ -138,7 +138,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vihanga-Gaganatharu/Vihanga-Gaganatharu/output/snake.svg" alt="Snake animation" />
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
 ###
 
