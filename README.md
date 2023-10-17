@@ -18,10 +18,11 @@
 
 <p align="left"></p>
 
-<div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Language,+ and +;tools+;"
-</div>
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
