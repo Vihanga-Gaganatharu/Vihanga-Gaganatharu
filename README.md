@@ -131,6 +131,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Vihanga-Gaganatharu.Vihanga-Gaganatharu&left_color=blue&right_color=red"  />
 </div>
 
+<div align="center">
+  
+![GitHub stars](https://img.shields.io/github/stars/Vihanga-Gaganatharu/Vihanga-Gaganatharu?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/Vihanga-Gaganatharu/Vihanga-Gaganatharu?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+</div>
+
+
 ###
 
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
