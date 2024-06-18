@@ -120,7 +120,6 @@
   </a>
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/Vihanga Gaganatharu.svg)](https://user-badge.committers.top/sri_lanka/Vihanga Gaganatharu)
 
 ###
 
